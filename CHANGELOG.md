@@ -1,4 +1,4 @@
-# 2.0.0
+# 2.3.0
 
 ## New features
 
@@ -7,7 +7,7 @@
 - ARIA semantics describe expanded state and relationship between blocks and their toggles
 - Blocks are now assigned an ID if they don't already have one
 - Install development dependencies with NPM
-- Gulp task to minifiy with UglifyJS 
+- Gulp task to minifiy with UglifyJS
 
 ## Improvements
 
@@ -30,7 +30,7 @@
 - Readmore.js now uses attribute selectors, rather than classes
     - The `.readmore-js-section` and `.readmore-js-toggle` classes are gone
     - The `expandedClass` and `collapsedClass` options are also gone
-    - Every Readmore.js block needs an ID, if one is not already present, one will be generated 
+    - Every Readmore.js block needs an ID, if one is not already present, one will be generated
 
 
 
